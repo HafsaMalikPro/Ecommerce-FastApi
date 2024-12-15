@@ -19,16 +19,6 @@ conf = ConnectionConfig(
     MAIL_STARTTLS=True,  # Correct field name
     MAIL_SSL_TLS=False,  # Correct field name
     USE_CREDENTIALS=True
-    
-    
-    # MAIL_USERNAME = config_credentials["EMAIL"],
-    # MAIL_PASSWORD = config_credentials["PASS"],
-    # MAIL_FROM = config_credentials["EMAIL"],
-    # MAIL_PORT = 587,
-    # MAIL_SERVER = "smtp.gmail.com",
-    # MAIL_TLS = True,
-    # MAIL_SSL = False,
-    # USE_CREDENTIALS = True
 )
 
 
